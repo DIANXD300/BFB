@@ -4,4 +4,4 @@ git clone https://github.com/DIANXD300/BFB
 
 cd BFB
 
-python beta.py
+python Beta.py
